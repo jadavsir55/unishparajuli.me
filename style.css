@@ -8,7 +8,14 @@ background-image: url(anime-naruto-naruko-uzumaki-wallpaper-preview.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 
+}
 
-
+.ytbtn{
+    text-decoration: none;
+    padding: 5px;
+    border: 1px dashed purple ;
+    border-radius: 8px;
+    background-image: url(./bt-bg.png);
+    color: white;
 }
 
